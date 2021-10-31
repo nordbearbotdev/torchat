@@ -14,7 +14,7 @@ Allows for secure chatting by using AES-256 bit encryption and routing all traff
 # Termux
 
 
-Errors
+# Errors
 Sometimes there will be errors. Dont worry just try again untill it opens.
 
 Thank you. Enjoy!
