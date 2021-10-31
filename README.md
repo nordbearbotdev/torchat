@@ -9,7 +9,7 @@ Allows for secure chatting by using AES-256 bit encryption and routing all traff
 # How to use the script
 
 # Linux
-`root@kali:~ 'python torchat.py'`
+`root@kali:~ 'python torchat.py`
 
 # Termux
 
