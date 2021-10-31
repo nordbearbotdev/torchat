@@ -2,14 +2,23 @@
 
 Hi, Dear user! I welcome You to decentralized anonymous instant messenger on top of Tor Services. Good time! Decentralized anonymous instant messenger on top of Tor Hidden Services. 
 
-# Note
+Chat securely with people. (AES-256 encryption)
 
-* The application requires active internet connection to contact the APIs
-* You would not be charged for any SMS/calls dispatched as a consequence of this script
-* For best performance, use single thread with considerable delay time
-* Always ensure that you are using the latest version of TBomb and have Python 3
-* This application must not be used to cause harm/discomfort/trouble to others
-* By using this, you agree that you cannot hold the contributors responsible for any misuse
+Allows for secure chatting by using AES-256 bit encryption and routing all traffic through Tor proxies (you must have tor running on port 9050) or specify the address in source.
+
+# How to use the script
+
+# Linux
+`root@kali:~ 'python torchat.py'`
+
+# Termux
+
+
+Errors
+Sometimes there will be errors. Dont worry just try again untill it opens.
+
+Thank you. Enjoy!
+
 
 # Tests
 
