@@ -1,5 +1,7 @@
 # TorChat
 
+![TorChat](https://user-images.githubusercontent.com/85753549/139583215-181b2188-b34a-44c8-a53a-eb8b743af840.png)
+
 Hi, Dear user! I welcome You to decentralized anonymous instant messenger on top of Tor Services. Good time! Decentralized anonymous instant messenger on top of Tor Hidden Services. 
 
 Chat securely with people. (AES-256 encryption)
